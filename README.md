@@ -37,6 +37,6 @@ The activity report of Induction program can be seen by clicking on the link giv
 
 
 
-I did a free online _Excel course_ from the Great Learning . It was also a nice experience of me .
+I did a free online _Excel course_ from the Great Learning . It was also a nice experience for me .
 
 ![Kirandeep_Kaur20240720-73-h2zy7l](https://github.com/user-attachments/assets/aca62732-a65a-4c3f-aa1c-441995fcee3b)
