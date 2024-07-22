@@ -29,13 +29,14 @@ It was a wonderful experience at GNDEC . I learnt many new things here which wer
 
 
 The activity report of Induction program can be seen by clicking on the link given below:
-[ACTIVITY REPORT 2024](https://kirandeepkaur002.github.io/Kirandeepkaur004.github.io/)
+[ACTIVITY REPORT 2024 INDUCTION PROGRAM LINK](https://kirandeepkaur002.github.io/Kirandeepkaur004.github.io/)
 
 
 
 ## _Online Excel Learning_
 
-![Kirandeep_Kaur20240720-73-h2zy7l](https://github.com/user-attachments/assets/aca62732-a65a-4c3f-aa1c-441995fcee3b)
+
 
 I did a free online _Excel course_ from the Great Learning . It was also a nice experience of me .
 
+![Kirandeep_Kaur20240720-73-h2zy7l](https://github.com/user-attachments/assets/aca62732-a65a-4c3f-aa1c-441995fcee3b)
