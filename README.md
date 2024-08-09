@@ -2,7 +2,7 @@
 # PORTFOLIO
 ---
 
-![Kirandeep Kaur](/)
+![Kirandeep Kaur](img/github_kiran.jfif)
 
 My name is **KIRANDEEP KAUR** . I am 17 years old . I completed my sen. sec. examination from **Teja Singh Sutantra Memorial Sen. Sec. School** , Ludhiana . Now I am persuing B-Tech in _Computer Software Engineering_ in **Guru Nanak Dev Engineerig College** , *Ludhiana*.
 
